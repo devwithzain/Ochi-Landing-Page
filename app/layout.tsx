@@ -1,7 +1,7 @@
 import "@/styles/globals.css";
 import type { Metadata } from "next";
 export const metadata: Metadata = {
-	title: "Ochi",
+	title: "OCHI - Presentation Design Agency",
 	description: "Ochi Website Clone",
 };
 export default function RootLayout({
