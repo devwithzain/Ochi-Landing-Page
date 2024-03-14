@@ -10,14 +10,13 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        primary: "#f1f1f1",
+        background: "#f1f1f1",
         secondry: "#212121",
         marquee: "#004d43",
         about: "#cdea68"
       },
     },
     fontFamily: {
-      FoundersGroteskSB: ["FoundersGroteskSB", "sans-serif"],
       FoundersGrotesk: ["FoundersGrotesk", "sans-serif"],
       NeueMontreal: ["NeueMontreal", "sans-serif"],
     }
